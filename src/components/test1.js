@@ -1,4 +1,4 @@
-import "./MyFirstComponent.css"
+import "./test1.css"
 export default function MyFirstComponent() {
   const person = {
     name: 'Chamseddine',
