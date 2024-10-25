@@ -1,0 +1,8 @@
+.active {
+  background-color: green;
+  border: 1px solid  ;
+}
+.inactive{
+  background-color: red;
+  border: 1px dashed  ;
+}
